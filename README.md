@@ -1,2 +1,3 @@
-# test
-just testing
+# README
+## Testing repository
+**Text in bold**
