@@ -1,3 +1,3 @@
 # README
 ## Testing repository
-**Text in bold**
+**Testing branching**
